@@ -3,7 +3,7 @@
 ## Humanizing Quantum - PianQ
 
 Generating quantum music using Qiskit. 
-We have developed a platform designed to help the general public understand quantum phenomena, such as superposition, and quantum computation, all using the language of music instead of mathematics. We have used one-to-one mapping between the musical notes of an octave, to eight single qubits.
+We have developed a platform designed to help the general public understand quantum phenomena, such as superposition, and quantum computation, all using the language of music instead of mathematics. We have used one-to-one mapping where the musical notes of an octave are assigned to qubits.
 
 The interactive and easy-to-use quantum piano interface, built using the Pygame library, performs specific operations (e.g. a Hadamard gate) on a quantum computer (IBM Q) or quantum simulator, using the Qiskit library. When the user presses a key associated with one of the notes on the virtual piano visible on the screen, this generates the relevant quantum logic gate on the screen that chances the state of the qubit, reproducing a specific sound frequency.
 
