@@ -2,6 +2,8 @@
 # Quantum Futures Hackathon 2019
 ## Humanizing Quantum - PianQ
 
+18th - 20th October 2019
+
 Generating quantum music using Qiskit. 
 We have developed a platform designed to help the general public understand quantum phenomena, such as superposition, and quantum computation, all using the language of music instead of mathematics. We have used one-to-one mapping where the musical notes of an octave are assigned to qubits.
 
